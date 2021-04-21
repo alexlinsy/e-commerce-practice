@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 
-import products from '../../shared/products.json';
+import products from '../shared/products.json';
 
 export default function Home() {
   return (
